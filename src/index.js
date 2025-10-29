@@ -23,3 +23,4 @@ if (xp < 1000) {
 }
 
 console.log("O herói de nome " + nomeHeroi + " está no nível " + nivel + ".");
+//dedolas
